@@ -1,6 +1,6 @@
 # 🌐 Level2Support2025
 
-Plataforma interna de soporte técnico desarrollada para prácticas avanzadas de gestión de redes, incidencias y recursos TI.
+Portal interno para técnicos de soporte N2. Acceso centralizado a herramientas clave, aplicaciones internas y recursos útiles para una gestión eficiente de incidencias y tareas diarias.
 
 > ⚠️ **Proyecto privado**  
 > Este sitio está desplegado en entorno seguro con autenticación previa y no se encuentra disponible el código fuente públicamente.
