@@ -80,7 +80,7 @@ Este repo está enfocado solo a:
 
 ## 👨‍💻 Autor
 
-Juanan · Técnico en Redes y Sistemas  
+Juan Antonio Comins Tormo · Técnico en Redes y Sistemas  
 🔗 [LinkedIn](https://www.linkedin.com/) • [Email](mailto:tucorreo@example.com)
 
 ---
